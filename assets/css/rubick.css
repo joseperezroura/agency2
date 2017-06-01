@@ -3,7 +3,8 @@
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, .btn-simple, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "Helvetica Neue","Open Sans",Arial,sans-serif;
+  /*font-family: "Helvetica Neue","Open Sans",Arial,sans-serif;*/
+  font-family: 'Shrikhand', cursive;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
@@ -366,7 +367,7 @@ body > .navbar-collapse a {
   margin: 5px 0px;
   padding: 20px 15px;
   font-size: 20px;
-  font-family: "Slim-Joe";
+  /*font-family: "Slim-Joe";*/
   letter-spacing: 0;
 }
 .navbar .navbar-nav > li > a {
@@ -1642,7 +1643,8 @@ body {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .navbar, .brand, .btn-simple, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "Verlag-Book","Helvetica Neue",Helvetica,Arial,sans-serif;
+  /*font-family: "Verlag-Book","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+  font-family: 'Shrikhand', cursive;
 }
 
 h1, .h1 {
@@ -2410,7 +2412,7 @@ a.carousel-control span.fa {
   letter-spacing: 0.1em;
   font-weight: 100;
   font-size: 6em;
-  font-family: "Slim-Joe";
+  /*font-family: "Slim-Joe";*/
   text-transform: uppercase;
   text-shadow: -2px 2px 0px rgba(0, 0, 0, 0.3), -2px 4px 2px rgba(0, 0, 0, 0.1);
 }
@@ -3402,7 +3404,7 @@ body.noscroll {
 .section-numbers-1 .number, .section-numbers-2 .number, .section-numbers-3 .number {
   font-size: 40px;
   color: #c5a47e;
-  font-family: "Slim-Joe", "Helvetica Neue", "Arial";
+  /*font-family: "Slim-Joe", "Helvetica Neue", "Arial";*/
   font-weight: 400;
 }
 .section-numbers-1 .description, .section-numbers-2 .description, .section-numbers-3 .description {
