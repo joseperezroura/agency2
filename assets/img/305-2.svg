@@ -4,11 +4,12 @@
 	 viewBox="0 0 8.9 4.1" style="enable-background:new 0 0 8.9 4.1;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#FFFFFF;stroke:#3B6AA0;stroke-width:5.000000e-02;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
 	.st2{font-family:'Prohibition-Regular';}
 	.st3{font-size:2px;}
-	.st4{enable-background:new    ;}
+	.st4{fill:none;stroke:#3B6AA0;stroke-width:7.000000e-02;stroke-miterlimit:10;}
 </style>
 <rect x="1.6" y="-0.1" class="st0" width="6.7" height="2.4"/>
-<text transform="matrix(2.2343 0 0 1 1.592 1.6851)" class="st1 st2 st3">305</text>
+<text transform="matrix(2.2343 0 0 1 1.5918 1.6851)" class="st1 st2 st3">305</text>
+<text transform="matrix(2.2343 0 0 1 1.5918 1.6851)" class="st4 st2 st3">305</text>
 </svg>
