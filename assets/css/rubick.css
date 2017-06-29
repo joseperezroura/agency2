@@ -1657,10 +1657,10 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .navbar, .brand, .btn-simp
   /*font-family: "Verlag-Book","Helvetica Neue",Helvetica,Arial,sans-serif;*/
   /*font-family: 'Shrikhand', cursive;
   font-family: 'Racing Sans One', cursive;*/
-  /*font-family: 'Oswald', sans-serif;*/
+  font-family: 'Oswald', sans-serif;
   /*font-family: 'Teko', sans-serif;*/
   /*font-family: 'Squada One', cursive;*/
-  font-family: 'Abril Fatface', cursive;
+  /*font-family: 'Abril Fatface', cursive;*/
 }
 
 h1, .h1 {
