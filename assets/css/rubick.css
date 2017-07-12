@@ -1618,7 +1618,7 @@ body {
     font-size: 120%;
   }
   body p {
-    font-size: 1.143em;
+    font-size: 1.0em;
   }
   body p.short {
     display: block;
@@ -1626,7 +1626,7 @@ body {
     margin: 0 auto;
   }
   body p.large {
-    font-size: 1.3em;
+    font-size: 1.2em;
   }
 }
 @media (min-width: 115em) {
