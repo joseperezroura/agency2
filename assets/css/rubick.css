@@ -3374,7 +3374,7 @@ body.noscroll {
 
 .img-circle {
   border-radius: 50%;
-  border: 3px solid 	blue;
+  border: 1.5px solid 	blue;
 }
 .img-circle.img-profile {
   width: 120px;
