@@ -433,20 +433,20 @@ body > .navbar-collapse a {
 .navbar-default .navbar-nav > li > a:not(.btn):focus {
   background-color: transparent;
   border-radius: 3px;
-  color: 	blue;
+  color: 	#0B13AD;
   opacity: 1;
   filter: alpha(opacity=100);
 }
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
-  border-bottom-color: 	blue;
-  border-top-color: 	blue;
+  border-bottom-color: 	#0B13AD;
+  border-top-color: 	#0B13AD;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   background-color: transparent;
-  color: 	blue;
+  color: 	#0B13AD;
 }
 .navbar-default .navbar-nav .navbar-toggle:hover, .navbar-default .navbar-nav .navbar-toggle:focus {
   background-color: transparent;
@@ -455,8 +455,8 @@ body > .navbar-collapse a {
   color: #343434;
 }
 .navbar-default:not(.navbar-transparent) .btn-default:hover {
-  color: 	blue;
-  border-color: 	blue;
+  color: 	#0B13AD;
+  border-color: 	#0B13AD;
 }
 .navbar-default:not(.navbar-transparent) .btn-neutral, .navbar-default:not(.navbar-transparent) .btn-neutral:hover, .navbar-default:not(.navbar-transparent) .btn-neutral:active {
   color: #777777;
@@ -494,7 +494,7 @@ body > .navbar-collapse a {
 [class*="navbar-ct"] .navbar-nav > li > a:focus:not(.btn) {
   background-color: transparent;
   border-radius: 3px;
-  color: 	blue;
+  color: 	#0B13AD;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -552,7 +552,7 @@ body > .navbar-collapse a {
   border-top-color: #FFFFFF;
 }
 
-.navbar-ct-	blue {
+.navbar-ct-	#0B13AD {
   background-color: rgba(52, 172, 220, 0.98);
 }
 
@@ -1005,7 +1005,7 @@ body > .navbar-collapse .nav > li > a {
   padding: 24px 0;
 }
 body > .navbar-collapse .nav > li > a:hover, body > .navbar-collapse .nav > li > a.active {
-  color: 	blue;
+  color: 	#0B13AD;
 }
 body > .navbar-collapse .nav > li.social-links {
   text-align: center;
@@ -1676,7 +1676,7 @@ h2, .h2 {
   margin: 0.4em 0;
   font-weight: bold;
   /*text-transform: uppercase;*/
-  /*color: blue;*/
+  /*color: #0B13AD;*/
 }
 
 h3, .h3 {
@@ -1759,7 +1759,7 @@ a:hover {
   position: relative;
 }
 .separator-container .separator {
-  color: 	blue;
+  color: 	#0B13AD;
   margin: 0 auto 1em;
   width: 11em;
 }
@@ -1768,7 +1768,7 @@ a:hover {
   width: 40%;
   content: " ";
   margin-top: 14px;
-  border: 1px solid 	blue;
+  border: 1px solid 	#0B13AD;
 }
 .separator-container .separator.line-separator:before {
   float: left;
@@ -1895,7 +1895,7 @@ a:hover {
 }
 .section .responsive-background {
   position: relative;
-  background-color: 	blue;
+  background-color: 	#0B13AD;
   padding: 0;
   z-index: 1;
   background-size: cover;
@@ -2247,12 +2247,12 @@ a,
   background: #333;
 }
 .filter.filter-color-gold:before {
-  background: 	blue;
+  background: 	#0B13AD;
 }
 .filter.filter-color-green:before {
   background: #275e4c;
 }
-.filter.filter-color-	blue:before {
+.filter.filter-color-	#0B13AD:before {
   background: #3D92CF;
 }
 .filter.filter-color-purple:before {
@@ -2303,7 +2303,7 @@ a,
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#71c491', endColorstr='#465556',GradientType=1 );
   /* IE6-9 fallback on horizontal gradient */
 }
-.filter.filter-gradient-	blue:before {
+.filter.filter-gradient-	#0B13AD:before {
   background: #085078;
   /* Old browsers */
   background: -moz-linear-gradient(-45deg, #085078 0%, #87d7db 100%);
@@ -2531,7 +2531,7 @@ a.carousel-control span.fa {
 .section-we-do-2 .icon {
   font-size: 75px;
   line-height: 75px;
-  color: 	blue;
+  color: 	#0B13AD;
   margin-bottom: 10px;
 }
 
@@ -2704,7 +2704,7 @@ body.noscroll {
 .section-with-hover .project .over-area.color-gold {
   background: rgba(197, 164, 126, 0.55);
 }
-.section-with-hover .project .over-area.color-	blue {
+.section-with-hover .project .over-area.color-	#0B13AD {
   background: rgba(61, 146, 207, 0.55);
 }
 .section-with-hover .project .over-area.color-purple {
@@ -2982,7 +2982,7 @@ body.noscroll {
   letter-spacing: 1px;
 }
 .project-content > div .project-details .project-text h3 span {
-  color: 	blue;
+  color: 	#0B13AD;
   font-size: 150%;
 }
 .project-content > div .project-details .project-text p {
@@ -3015,7 +3015,7 @@ body.noscroll {
   font-size: 50px;
 }
 .project-content .icon-close:hover {
-  color: 	blue;
+  color: 	#0B13AD;
 }
 .project-content .icon-close:hover i {
   -webkit-transform: rotate(90deg);
@@ -3144,8 +3144,8 @@ body.noscroll {
   width: 120px;
 }
 .section-clients-2 .nav-text > li.active a {
-  color: 	blue !important;
-  border-bottom: 2px solid 	blue;
+  color: 	#0B13AD !important;
+  border-bottom: 2px solid 	#0B13AD;
 }
 .section-clients-2 .nav-text > li.active a img:first-child {
   opacity: 0;
@@ -3339,7 +3339,7 @@ body.noscroll {
 .section-team-3 .team .member .motto {
   position: relative;
   text-transform: none;
-  color: 	blue;
+  color: 	#0B13AD;
   max-width: 55%;
   margin: 0 auto;
 }
@@ -3374,7 +3374,7 @@ body.noscroll {
 
 .img-circle {
   border-radius: 50%;
-  border: 1.5px solid 	blue;
+  border: 1.5px solid 	#0B13AD;
 }
 .img-circle.img-profile {
   width: 120px;
@@ -3405,7 +3405,7 @@ body.noscroll {
 }
 
 .btn-social:hover, .btn-social:active, .btn-social:focus {
-  color: 	blue;
+  color: 	#0B13AD;
 }
 
 .scroller {
@@ -3424,7 +3424,7 @@ body.noscroll {
 }
 .section-numbers-1 .number, .section-numbers-2 .number, .section-numbers-3 .number {
   font-size: 40px;
-  color: 	blue;
+  color: 	#0B13AD;
   /*font-family: "Slim-Joe", "Helvetica Neue", "Arial";*/
   font-weight: 400;
 }
