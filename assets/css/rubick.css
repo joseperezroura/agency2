@@ -3850,11 +3850,11 @@ body.noscroll {
     margin-top: 0;
   }
 }
-@media (min-width: 100px) and (max-width: 729px) {
+/*@media (min-width: 100px) and (max-width: 729px) {
   .section .parallax > img,
   .section .parallax .filter > img, .section .full-image > img,
   .section .full-image .filter > img {
         width: 150px;
         height: 150px;
     }
-}
+}*/
