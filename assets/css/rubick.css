@@ -2211,7 +2211,7 @@ a,
 }
 
 /*   end animation   */
-.pattern-image {
+/*.pattern-image {
   width: 100%;
   background-size: 100%;
 }
@@ -2226,7 +2226,7 @@ a,
   opacity: .4;
   background: #000;
   background: url("../img/pattern.png");
-}
+}*/
 
 .filter {
   position: relative;
