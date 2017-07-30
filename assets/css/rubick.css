@@ -3766,6 +3766,7 @@ body.noscroll {
     transform: translate3d(-230px, 0, 0);
   }
 
+
   .navbar-transparent {
     background-color: transparent;
   }
@@ -3849,6 +3850,13 @@ body.noscroll {
   footer .row div:first-child .title {
     margin-top: 0;
   }
+}
+
+.bob{
+  background-color: #50C7E5;
+}
+.white{
+  color: white !important;
 }
 /*@media (min-width: 100px) and (max-width: 729px) {
   .section .parallax > img,
