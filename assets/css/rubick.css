@@ -4001,3 +4001,6 @@ body.noscroll {
 .section-team-4 {
   padding-bottom: 0;
 }
+.card{
+  height: 200px;
+}
