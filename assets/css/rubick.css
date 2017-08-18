@@ -2971,7 +2971,7 @@ body.noscroll {
 .project-content>div .project-details .project-title {
   text-align: center;
   max-width: 768px;
-  margin: 0 auto 75px;
+  margin: 0 auto 30px;
   opacity: 0;
   -webkit-transform: translateY(-20px);
   -moz-transform: translateY(-20px);
@@ -3009,7 +3009,7 @@ body.noscroll {
 }
 
 .project-content>div .project-details .project-image img {
-  width: 100%;
+  width: 300px;
   height: 300px;
 }
 
@@ -4007,6 +4007,9 @@ body.noscroll {
         height: 150px;
     }
 }*/
+.logoproject{
+  width: 300px;
+}
 
 .section-team-4 {
   padding-bottom: 0;
