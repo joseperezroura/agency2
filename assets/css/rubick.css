@@ -2550,7 +2550,7 @@ a.carousel-control span.fa {
 }
 
 .section-we-do-1 .title, .section-we-do-2 .title {
-  margin-bottom: 70px;
+  margin-bottom: 30px;
 }
 
 .section-we-do-2 .icon {
@@ -3991,11 +3991,11 @@ body.noscroll {
 }
 
 .bob {
-  background-color: #50C7E5;
+  /*background-color: #50C7E5;*/
 }
 
 .white {
-  color: white !important;
+  /*color: white !important;*/
 }
 
 
