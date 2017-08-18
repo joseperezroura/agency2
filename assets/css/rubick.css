@@ -3010,7 +3010,7 @@ body.noscroll {
 
 .project-content>div .project-details .project-image img {
   width: 100%;
-  height: auto;
+  height: 300px;
 }
 
 .project-content>div .project-details .product .project-image {
